@@ -1,0 +1,75 @@
+class ListNode {
+    int val;
+    ListNode next;
+
+    ListNode() {}
+
+    ListNode(int val) {
+        this.val = val;
+    }
+
+    ListNode(int val, ListNode next) {
+        this.val = val;
+        this.next = next;
+    }
+}
+
+class Solution {
+    public ListNode removeElements(ListNode head, int val) {
+
+        while (head != null && head.val == val) {
+            head = head.next;
+        }
+
+        ListNode curr = head;
+
+        while (curr != null && curr.next != null) {
+
+            if (curr.next.val == val) {
+                curr.next = curr.next.next;
+            } else {
+                curr = curr.next;
+            }
+        }
+
+        return head;
+    }
+}
+
+public class Main {
+
+    // Helper function to print linked list
+    public static void printList(ListNode head) {
+        ListNode curr = head;
+
+        while (curr != null) {
+            System.out.print(curr.val + " -> ");
+            curr = curr.next;
+        }
+
+        System.out.println("null");
+    }
+
+    public static void main(String[] args) {
+
+        // Creating:
+        // 1 -> 2 -> 6 -> 3 -> 4 -> 5 -> 6
+
+        ListNode head = new ListNode(1);
+        head.next = new ListNode(2);
+        head.next.next = new ListNode(6);
+        head.next.next.next = new ListNode(3);
+        head.next.next.next.next = new ListNode(4);
+        head.next.next.next.next.next = new ListNode(5);
+        head.next.next.next.next.next.next = new ListNode(6);
+
+        System.out.println("Original List:");
+        printList(head);
+
+        Solution sol = new Solution();
+        head = sol.removeElements(head, 6);
+
+        System.out.println("After Removing 6:");
+        printList(head);
+    }
+}
