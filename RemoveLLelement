@@ -1,3 +1,5 @@
+/* MAIN FUNCTION IS WRITTEN BY AI */
+
 class ListNode {
     int val;
     ListNode next;
@@ -36,6 +38,8 @@ class Solution {
     }
 }
 
+
+/* MAIN FUNCTION IS WRITTEN BY AI */
 public class Main {
 
     // Helper function to print linked list
