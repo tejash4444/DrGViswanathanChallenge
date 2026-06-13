@@ -1,6 +1,6 @@
 /* MAIN FUNCTION IS WRITTEN BY AI */
 
-class TreeNode {
+class SameTree {
     int val;
     TreeNode left;
     TreeNode right;
