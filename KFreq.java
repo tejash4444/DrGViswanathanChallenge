@@ -1,6 +1,6 @@
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Arrays;
 
 public class KFreq {
 
@@ -37,7 +37,7 @@ public class KFreq {
 
     public static void main(String[] args) {
 
-        int[] nums = {1, 1, 1, 2, 2, 3};
+        int[] nums = {1, 1, 1, 2, 2, 3,4};
         int k = 2;
 
         int[] result = topKFrequent(nums, k);

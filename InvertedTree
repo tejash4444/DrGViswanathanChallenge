@@ -1,3 +1,5 @@
+/* MAIN FUNCTION IS WRITTEN BY AI */
+
 public class InvertedTree {
 
     static class TreeNode {
@@ -35,16 +37,9 @@ public class InvertedTree {
     }
 
     /* MAIN FUNCTION IS WRITTEN BY AI */
-    
+
     public static void main(String[] args) {
 
-        /*
-                 4
-                / \
-               2   7
-              / \ / \
-             1  3 6  9
-        */
 
         TreeNode root = new TreeNode(4);
 
