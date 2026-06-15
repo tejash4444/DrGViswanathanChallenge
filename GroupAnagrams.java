@@ -30,7 +30,7 @@ public class GroupAnagrams {
 
         Solution sol = new Solution();
 
-        String[] strs = {"eat", "tea", "tan", "ate", "nat", "bat"};
+        String[] strs = {"eat", "tea", "tan", "ate", "nat", "bat" , "cat"};
 
         List<List<String>> result = sol.groupAnagrams(strs);
 
