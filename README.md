@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0189-rotate-array) |
+| [0485-max-consecutive-ones](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Math
 |  |
