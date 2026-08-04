@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0189-rotate-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -77,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0560-subarray-sum-equals-k) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tejash4444/DrGViswanathanChallenge/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
